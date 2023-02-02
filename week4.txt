@@ -1,2 +1,3 @@
 first commit (master) 
 commit (newbranch)
+second commit (newbranch)
