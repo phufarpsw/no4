@@ -1,2 +1,4 @@
 first commit (master) 
 alpha commit (before merge master & new branch)
+commit (newbranch)
+second commit (newbranch)
